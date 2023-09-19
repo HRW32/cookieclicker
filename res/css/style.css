@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/Bs7Cdl.webp);
+    margin-top: 320px;
+    text-align: center;
+}
+#cookie{
+    max-width: 150px;
+    width: 100%;
+    
+}
+#counter{
+    font-size: 40px;
+}
