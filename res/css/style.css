@@ -10,4 +10,18 @@ body{
 }
 #counter{
     font-size: 40px;
+    text-align: center;
 }
+.upgrade{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button{
+    background-color: aqua;
+    border-radius: 5px;
+}
+#upgradeclick { font-size: 40px;}
+#buy{ font-size: 40px;}
